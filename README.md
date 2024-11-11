@@ -1,2 +1,2 @@
-Игра "Пятнашки" только на чисто js
+Игра "Пятнашки" только на чистом js
 https://artemkuvik.github.io/gem-pazzle/
